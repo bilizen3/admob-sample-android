@@ -2,5 +2,7 @@
     <string name="app_name">admob-sample-android</string>
     <string name="admob_app_id">ca-app-pub-3929226911311370~9497892282</string>
     <string name="banner_id">ca-app-pub-3929226911311370/6766296473</string>
+    <string name="intersticial_id">ca-app-pub-3929226911311370/1980943463</string>
+    <string name="bonificado_id">ca-app-pub-3929226911311370/4527393363</string>
     <string name="test_device">AD04D7863E903029830B771F43D9AE30</string>
 </resources>
